@@ -1,5 +1,5 @@
 '''
-Wikipedia Perenial Source Scraper
+Wikipedia Perennial Source Scraper
 '''
 
 import requests
